@@ -1,0 +1,45 @@
+{
+  "byIds": {
+    "company1": {
+      "id": "company1",
+      "name": "SecondBite",
+      "promotions": [
+        {
+          "type": "xfory",
+          "x": 3,
+          "y": 2,
+          "adId": "ad1"
+        }
+      ]
+    },
+    "company2": {
+      "id": "company2",
+      "name": "Axil Coffee Roasters",
+      "promotions": [
+        {
+          "type": "discount",
+          "adId": "ad2",
+          "price": 299.99
+        }
+      ]
+    },
+    "company3": {
+      "id": "company3",
+      "name": "MYER",
+      "promotions": [
+        {
+          "type": "xfory",
+          "x": 5,
+          "y": 4,
+          "adId": "ad2"
+        },
+        {
+          "type": "discount",
+          "adId": "ad3",
+          "price": 389.99
+        }
+      ]
+    }
+  },
+  "allIds": ["company1", "company2", "company3"]
+}
